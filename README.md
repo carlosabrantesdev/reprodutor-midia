@@ -1,21 +1,21 @@
-# Reprodutor MP3 Next.js
+# Reprodutor de Mídia
 
-Um reprodutor de músicas MP3, feito com Next.js, suportando playlists locais, integração com a API do iTunes, controles simples e interface responsiva.
+## Descrição
+Reprodutor de mídia para arquivos MP3 e vídeos MP4, desenvolvido com Next.js. Suporta playlists locais, controles personalizados, busca automática de capas via API do iTunes, barra de progresso e volume, com interface responsiva e consistente para áudio e vídeo.
 
 ## Funcionalidades
-
-- Upload e seleção de arquivos MP3 locais
-- Reprodução sequencial, controle de faixa, volume e barra de progresso
-- Busca automática de capa e metadados via API do iTunes
-- Interface responsiva e atualização dinâmica do visual a cada faixa
-- Armazenamento local da playlist para persistência entre sessões
+- Upload e seleção de arquivos MP3 e MP4 locais
+- Reprodução sequencial com controles de play/pause, próximo, anterior, barra de progresso e volume
+- Busca automática de capa e metadados via API do iTunes para músicas
+- Interface responsiva, mantendo tamanho consistente para capas e vídeos
+- Persistência da playlist durante a sessão
+- Controles universais para áudio e vídeo, sem usar controles nativos do navegador
 
 ## Tecnologias Utilizadas
-
 - Next.js
 - React
 - TypeScript
-- CSS Tailwind
+- Tailwind CSS
 
 ## Estrutura do Projeto
 
@@ -26,10 +26,10 @@ Um reprodutor de músicas MP3, feito com Next.js, suportando playlists locais, i
 │   ├── favicon.ico
 ├── src/
 │   └── app/
-│       ├── play/
-│       ├── globals.css
-│       ├── layout.tsx
-│       └── page.tsx
+│   ├── play/
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
 ├── .gitignore
 ├── README.md
 ├── eslint.config.mjs
@@ -44,8 +44,8 @@ Um reprodutor de músicas MP3, feito com Next.js, suportando playlists locais, i
 ## Como Executar
 
 ```bash
-git clone https://github.com/seuusuario/reprodutor-mp3-nextjs.git
-cd reprodutor-mp3-nextjs
+git clone https://github.com/carlosabrantesdev/reprodutor-midia
+cd reprodutor-midia
 npm install
 npm run dev
 ```
@@ -54,13 +54,8 @@ Acesse [http://localhost:3000](http://localhost:3000) no navegador para testar.
 
 ## Demonstração
 
-![Demonstração do MP3 Web Player](https://i.ibb.co/cKSBqCTk/Screenshot-1.png)
+![Demonstração do Reprodutor de Mídia](https://i.ibb.co/NdvdS86J/demonstracao.png)
 
 ## Autor
 
 Desenvolvido por Carlos Abrantes
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 6d1587c87aec5608184f56192b32d0670e8462af

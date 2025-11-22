@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Reprodutor MP3",
-  description: "Um simples reprodutor de MP3 feito com Next.js e TypeScript",
+  title: "Reprodutor",
+  description: "Um simples reprodutor feito com Next.js e TypeScript",
   icons: {
     icon: "public/icon.png",
   },

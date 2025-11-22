@@ -54,8 +54,9 @@ Acesse [http://localhost:3000](http://localhost:3000) no navegador para testar.
 
 ## Demonstração
 
-![Demonstração do Reprodutor de Mídia](https://i.ibb.co/NdvdS86J/demonstracao.png)
+![Demonstração do Reprodutor de Mídia](./public/demonstracao.png)
 
 ## Autor
+
 
 Desenvolvido por Carlos Abrantes

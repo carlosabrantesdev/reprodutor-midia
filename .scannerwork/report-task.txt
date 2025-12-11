@@ -1,7 +1,0 @@
-organization=carlosabrantesdev
-projectKey=carlosabrantesdev_reprodutor-mp3-nextjs
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.77094
-dashboardUrl=https://sonarcloud.io/dashboard?id=carlosabrantesdev_reprodutor-mp3-nextjs
-ceTaskId=AZru3q9tjaqhWde_hQc8
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZru3q9tjaqhWde_hQc8
